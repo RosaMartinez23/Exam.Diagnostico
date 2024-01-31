@@ -1,0 +1,32 @@
+
+.imagen{
+    text-align: center;
+}
+.texto{
+    padding-top: 200px;
+    text-align: center;
+    size: 100px;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+}
+.name{
+    color: blue;
+}
+.contenedor{
+    border-radius: 50px;
+    background-image: url("img/fondo16.jpg"); height: auto;
+    width: 440px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    size: 2000px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 5px 5px 15px rgb(8, 8, 8);
+}
+body{
+    background-color: aliceblue;
+}
